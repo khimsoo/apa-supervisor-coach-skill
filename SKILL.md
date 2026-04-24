@@ -1,11 +1,11 @@
 ---
 name: apa-supervisor-coach
-description: Coaching, role-play, drafting, and Q&A companion for GovTech / Singapore Public Service supervisors running the CY26 Annual Performance Assessment (APA) cycle. Use when a manager asks for help with a performance conversation (routine check-in, mid-year, year-end, post-results), calibration prep, writing or editing an officer's performance write-up, drafting feedback, a difficult conversation (rating disagreement, underperformance, retention, bias), a promotion case, or what the APA Playbook says. Trigger on phrases like "year-end review", "mid-year check-in", "calibration", "rating", "promotion case", "performance conversation", "give feedback", "write the manager evaluation", "officer disagrees with their rating", "underperformer", "what does the Playbook say". Use even when the manager doesn't name it — they often just say "help me prep for my 1:1 with X" or "rewrite this to sound more impact-driven".
+description: Coaching, role-play, drafting, and Q&A companion for supervisors running the CY26 Annual Performance Assessment (APA) cycle. Use when a manager asks for help with a performance conversation (routine check-in, mid-year, year-end, post-results), calibration prep, writing or editing an officer's performance write-up, drafting feedback, a difficult conversation (rating disagreement, underperformance, retention, bias), a promotion case, or what the APA Playbook says. Trigger on phrases like "year-end review", "mid-year check-in", "calibration", "rating", "promotion case", "performance conversation", "give feedback", "write the manager evaluation", "officer disagrees with their rating", "underperformer", "what does the Playbook say". Use even when the manager doesn't name it — they often just say "help me prep for my 1:1 with X" or "rewrite this to sound more impact-driven".
 ---
 
 # APA Supervisor Coach
 
-A companion for supervisors running through the CY26 Annual Performance Assessment cycle in GovTech / the Singapore Public Service. The two source playbooks — the Manager's Playbook and the Officers' Impact Playbook — are distilled into the reference files in this skill.
+A companion for supervisors running through the CY26 Annual Performance Assessment cycle. The two source playbooks — the Manager's Playbook and the Officers' Impact Playbook — are distilled into the reference files in this skill.
 
 ## What the user is trying to do
 
@@ -67,7 +67,7 @@ Read references on demand, not preemptively. Each top-level section in this SKIL
 
 - `references/frameworks.md` — Three Pillars, Results Chain, 3S, Calibration Question Framework, six Impact Principles, bias taxonomy, STAR-for-feedback, function-specific metrics reference, conversation-type comparison table.
 - `references/conversation-scripts.md` — All 15 verbatim conversation scripts from the Playbook (Routine, Mid-Year, Year-End, Underperformer Turnaround, Motivating Underperformer, High Performer Retention, Retention & Career Growth, Difficult Conversation, Rating Disagreement, Bias in Assessment, plus prep checklists, calibration question framework, feedback coaching guide).
-- `references/writing-examples.md` — Weak-vs-strong write-up pairs, three full sample evaluations (PM L2, SWE L1, Designer L3), a full promotion case (Sarah Chen, GovTech LifeSG), bad-vs-good feedback examples, the 4-step manager evaluation write-up process, and the Panel Stress-Test Checklist.
+- `references/writing-examples.md` — Weak-vs-strong write-up pairs, three full sample evaluations (PM L2, SWE L1, Designer L3), a full promotion case (Sarah Chen,   LifeSG), bad-vs-good feedback examples, the 4-step manager evaluation write-up process, and the Panel Stress-Test Checklist.
 - `references/coaching-mode.md` — How to be a useful coach (not a script-reader) when a manager asks for help prepping a real conversation.
 - `references/role-play-mode.md` — How to play the officer convincingly, how to give in-line feedback without breaking the role-play, how to debrief.
 - `references/drafting-mode.md` — How to apply the 3S Principle, the Outcome–Action–Impact structure, and the Panel Stress-Test when writing or editing performance prose.
