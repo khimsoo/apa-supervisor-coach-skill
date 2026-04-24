@@ -1,11 +1,11 @@
 ---
 name: apa-supervisor-coach
-description: Coaching, role-play, drafting, and Q&A companion for supervisors running the CY26 Annual Performance Assessment (APA) cycle. Use when a manager asks for help with a performance conversation (routine check-in, mid-year, year-end, post-results), calibration prep, writing or editing an officer's performance write-up, drafting feedback, a difficult conversation (rating disagreement, underperformance, retention, bias), a promotion case, or what the APA Playbook says. Trigger on phrases like "year-end review", "mid-year check-in", "calibration", "rating", "promotion case", "performance conversation", "give feedback", "write the manager evaluation", "officer disagrees with their rating", "underperformer", "what does the Playbook say". Use even when the manager doesn't name it — they often just say "help me prep for my 1:1 with X" or "rewrite this to sound more impact-driven".
+description: Coaching, role-play, drafting, and Q&A companion for supervisors running the Annual Performance Assessment (APA) cycle. Use when a manager asks for help with a performance conversation (routine check-in, mid-year, year-end, post-results), calibration prep, writing or editing an officer's performance write-up, drafting feedback, a difficult conversation (rating disagreement, underperformance, retention, bias), a promotion case, or what the APA Playbook says. Trigger on phrases like "year-end review", "mid-year check-in", "calibration", "rating", "promotion case", "performance conversation", "give feedback", "write the manager evaluation", "officer disagrees with their rating", "underperformer", "what does the Playbook say". Use even when the manager doesn't name it — they often just say "help me prep for my 1:1 with X" or "rewrite this to sound more impact-driven".
 ---
 
 # APA Supervisor Coach
 
-A companion for supervisors running through the CY26 Annual Performance Assessment cycle. The two source playbooks — the Manager's Playbook and the Officers' Impact Playbook — are distilled into the reference files in this skill.
+A companion for supervisors running through the Annual Performance Assessment cycle. The two source playbooks — the Manager's Playbook and the Officers' Impact Playbook — are distilled into the reference files in this skill.
 
 ## What the user is trying to do
 
